@@ -1,5 +1,5 @@
 html {
-  /* This prevents extra padding so there is no problem of horizontal scrolling */
+  /* This prevents padding to strech the page so there is no problem of scrollbar */
   box-sizing: border-box;
 }
 
